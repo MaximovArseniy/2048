@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2014.10.24 18:07:31.240,=C:\Users\Arix\Documents\RAD Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2014.10.24 18:07:31.316,=C:\Users\Arix\Documents\RAD Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2014.10.24 18:08:19.034,C:\Arix\!programs\Games\2048\main.cpp=C:\Users\Arix\Documents\RAD Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2014.10.24 18:08:19.034,C:\Arix\!programs\Games\2048\main.h=C:\Users\Arix\Documents\RAD Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2014.10.24 18:08:19.034,C:\Arix\!programs\Games\2048\main.dfm=C:\Users\Arix\Documents\RAD Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2014.10.24 18:08:48.155,C:\Arix\!programs\Games\2048\lib\Project1PCH1.h=C:\Users\Arix\Documents\RAD Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2014.10.24 18:09:09.678,C:\Arix\!programs\Games\2048\project\Project1.cbproj=C:\Users\Arix\Documents\RAD Studio\Projects\Project1.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
